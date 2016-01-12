@@ -1,0 +1,34 @@
+# Site settings
+title: Sophie Cottin
+email: sophcottin@gmail.com
+description: A blog to keep track of all the amazing stuff I'm going to learn
+url: "http://sophiecottin.co.uk" # the base hostname & protocol for your site
+twitter_username: sophiecottin
+paginate: 3
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Sophie Cottin
+      layout: "post"
+      category: conferences
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+

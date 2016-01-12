@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Cottin</title>
+    <description>A blog to keep track of all the amazing stuff I&#39;m going to learn</description>
+    <link>http://sophiecottin.co.uk/</link>
+    <atom:link href="http://sophiecottin.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Jan 2016 16:31:35 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 16:31:35 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Pagination</title>
+        <description>&lt;p&gt;2016-01-01-pagination.md&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://sophiecottin.co.uk/pagination</link>
+        <guid isPermaLink="true">http://sophiecottin.co.uk/pagination</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>hello world</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque incidunt excepturi quisquam, vel illo laboriosam, culpa. Modi, quis dicta! Hic eaque similique praesentium earum impedit magnam, corrupti quo nisi quam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Apr 2015 00:00:00 +0100</pubDate>
+        <link>http://sophiecottin.co.uk/hello</link>
+        <guid isPermaLink="true">http://sophiecottin.co.uk/hello</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Camp Sass</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA. It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 10:45:36 +0100</pubDate>
+        <link>http://sophiecottin.co.uk/camp-sass</link>
+        <guid isPermaLink="true">http://sophiecottin.co.uk/camp-sass</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>my blog</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia voluptatibus eaque illo praesentium libero vel sit quidem temporibus ipsa fugit totam, blanditiis itaque, voluptatem ratione eum esse iste pariatur quis.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2015 00:00:00 +0100</pubDate>
+        <link>http://sophiecottin.co.uk/my-blog</link>
+        <guid isPermaLink="true">http://sophiecottin.co.uk/my-blog</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
