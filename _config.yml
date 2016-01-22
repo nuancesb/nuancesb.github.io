@@ -3,6 +3,7 @@ title: Sophie Cottin
 email: sophcottin@gmail.com
 description: A blog to keep track of all the amazing stuff I'm going to learn
 url: "http://sophiecottin.co.uk" # the base hostname & protocol for your site
+baseurl: "/sophie_cottin"
 twitter_username: sophiecottin
 paginate: 3
 gems: [jekyll-paginate]
