@@ -1,6 +1,6 @@
 ---
 title: Hello 8th Light
-image : 8light.jpg
+
 ---
 
 
