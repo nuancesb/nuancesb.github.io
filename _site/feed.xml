@@ -5,17 +5,36 @@
     <description>A blog to keep track of all the amazing stuff I&#39;m going to learn</description>
     <link>http://sophiecottin.co.uk/</link>
     <atom:link href="http://sophiecottin.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 10:56:34 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 10:56:34 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Jan 2016 16:05:10 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 16:05:10 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>hello world</title>
-        <description>
+        <title>Hello 8th Light</title>
+        <description>&lt;p&gt;Last week my friend Rabea invited me to 8th Light to see her giving her very first talk. Yay!! I was very excited to go. Finally, something new and unusual to look forward to!
+And, as 8th Light people are really nice people, they ordered thai food for everyone (me included 😊)!&lt;/p&gt;
+
+&lt;p&gt;So, last Friday, I went to the 19-21 Hattons Gardens. I knew this location for two things, my engagement ring and the big robbery that happened few months ago. OOOOh interesting !!!
+When I arrived I had missed the talk (I’m a terrible friend) but I had a full afternoon of coding ahead of me.&lt;/p&gt;
+
+&lt;p&gt;After a quick lunch, Rabea introduced me to 8th Light people and I had to do something weird : Shaking hands.&lt;/p&gt;
+
+&lt;p&gt;WTF.&lt;/p&gt;
+
+&lt;p&gt;Saying Hi? Who cares nowadays? I thought the implicit law in tech companies in London was to not say Hi! After all, everyone has headphones and doesn’t give a shit so, why bother? Or maybe it’s only  in my autistic-I-m-not-going-to-give-the-name-of-my-company that people are rude (probably).&lt;/p&gt;
+
+&lt;p&gt;But, at 8th Light, it’s different. In the morning, you have to shake hands to every single person in the company. By doing that, you create a link with the others. It’s a sign of respect,it means I recognize you here and now. So yoga style! I like it.&lt;/p&gt;
+
+&lt;p&gt;After this brief introduction, we started pairing on the Coin Changer kata. We already did this kata together and I was happy I understood everything but when I wanted to do it again, I had forgotten EVERYTHING. First lesson learned : you can’t rely on your brain too much but technology is here to help you!!
+So this time, I had a strategy, I had a &lt;a href=&quot;http://screencast-o-matic.com/home &quot;&gt;screencast recorder&lt;/a&gt;. So I could record every steps of the solution and practise easily afterwards. Genius!! I know!!!&lt;/p&gt;
+
+&lt;p&gt;We spent the entire afternoon coding and it was great! Everytime we pair together it’s always funny and it makes katas less scary (for me). We did Coin Changer and Roman Numerals. I need to practise them now. My next blog post will about how to solve either one or the other.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day when I left, I was exhausted by all this coding but very happy. I hope I will be back again soon. Thank you Rabea, thank you 8th Light.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://sophiecottin.co.uk/hello</link>
-        <guid isPermaLink="true">http://sophiecottin.co.uk/hello</guid>
+        <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://sophiecottin.co.uk/Hello-8th-Light</link>
+        <guid isPermaLink="true">http://sophiecottin.co.uk/Hello-8th-Light</guid>
         
         
         <category>conferences</category>
