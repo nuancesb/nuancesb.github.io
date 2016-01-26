@@ -7,6 +7,7 @@ twitter_username: sophiecottin
 paginate: 3
 gems: [jekyll-paginate]
 
+
 # Build settings
 markdown: kramdown
 permalink: /:title
